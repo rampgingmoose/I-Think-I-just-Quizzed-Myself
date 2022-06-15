@@ -13,5 +13,9 @@ MonoBehaviour:
   m_Name: Question 3
   m_EditorClassIdentifier: 
   question: Where's the best place to take a nice long quiz?
-  answers: []
-  correctAnswerIndex: 0
+  answers:
+  - the shower
+  - at the bar
+  - in your bed
+  - a coffee shop
+  correctAnswerIndex: 2

@@ -13,5 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: What does WAP stand for?
-  answers: []
-  correctAnswerIndex: 0
+  answers:
+  - Well And Plastered
+  - Wings And Pizza
+  - Wet Ass Pussy
+  - Wet Art Petunias
+  correctAnswerIndex: 1
