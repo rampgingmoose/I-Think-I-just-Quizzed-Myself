@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Why did pirates historically wear eye patches?
   answers:
-  - cuz they were dope
+  - they were fashionable
   - to see better below deck
-  - becasue they lost an eye
+  - they lost an eye
   - to make looking through a telescop easier
   correctAnswerIndex: 1
